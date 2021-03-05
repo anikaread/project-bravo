@@ -1,0 +1,7 @@
+C:\Users\anika\source\repos\project.Bravo.anika\project.Bravo.anika\bin\Debug\project.Bravo.anika.exe.config
+C:\Users\anika\source\repos\project.Bravo.anika\project.Bravo.anika\bin\Debug\project.Bravo.anika.exe
+C:\Users\anika\source\repos\project.Bravo.anika\project.Bravo.anika\bin\Debug\project.Bravo.anika.pdb
+C:\Users\anika\source\repos\project.Bravo.anika\project.Bravo.anika\obj\Debug\project.Bravo.anika.csprojAssemblyReference.cache
+C:\Users\anika\source\repos\project.Bravo.anika\project.Bravo.anika\obj\Debug\project.Bravo.anika.csproj.CoreCompileInputs.cache
+C:\Users\anika\source\repos\project.Bravo.anika\project.Bravo.anika\obj\Debug\project.Bravo.anika.exe
+C:\Users\anika\source\repos\project.Bravo.anika\project.Bravo.anika\obj\Debug\project.Bravo.anika.pdb
